@@ -1,4 +1,4 @@
-# Titanic Survival Prediction 🚢
+# Titanic Survival Prediction
 
 ## Project Overview
 This project focuses on analyzing the Titanic dataset and building machine learning models
@@ -22,14 +22,13 @@ to predict passenger survival based on demographic and travel-related features.
 - F1-score
 - Confusion Matrix
 
-````markdown
 ## Tech Stack
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
-```
+
 ## How to Run
 1. Clone the repository
    ```bash
@@ -74,7 +73,7 @@ jupyter
 ````
 
 
-## .gitignore (DO NOT SKIP)
+## .gitignore
 
 ```txt
 __pycache__/
@@ -82,10 +81,6 @@ __pycache__/
 .env
 data/raw/*.csv
 ```
-
-Prevents junk files from being pushed.
-
----
 
 ## How to Push Everything to GitHub
 
